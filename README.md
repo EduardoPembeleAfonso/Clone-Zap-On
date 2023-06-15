@@ -31,10 +31,10 @@ Como clonar este repositório :
 
 ## Project images :
 ***
-![Screenshot](image_project6.png)
-![Screenshot](image_project5.png)
-![Screenshot](image_project1.png)
-![Screenshot](image_project3.png)
-![Screenshot](image_project2.png)
+![Screenshot](assets/imageFromProject/image_project6.png)
+![Screenshot](assets/imageFromProject/image_project5.png)
+![Screenshot](assets/imageFromProject/image_project1.png)
+![Screenshot](assets/imageFromProject/image_project3.png)
+![Screenshot](assets/imageFromProject/image_project2.png)
 
 
